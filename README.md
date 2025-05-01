@@ -29,3 +29,12 @@ Este proyecto es una aplicación web simple que muestra una lista de usuarios co
    ```bash
    ./mvnw spring-boot:run
    ```
+
+En Windows:
+
+```cmd
+mvnw.cmd spring-boot:run
+```
+
+Abrir el navegador y acceder a:
+http://localhost:8080/usuarios
